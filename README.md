@@ -1,4 +1,4 @@
-EFI para notebook Acer Aspire F5-573-59TV
+EFI HACKINTOSH para notebook Acer Aspire F5-573-59TV
 
 Tudo funciona corretamente!
 
